@@ -24,8 +24,6 @@ copies to device, applies the filter, and writes the result to the output folder
 ## Running the Program
 
 1. Run the following command, with the `-input` command line flag to specify the input folder to use:
-```
-run.sh
-```
-
----
+  ```bash
+  $ run.sh
+  ```
