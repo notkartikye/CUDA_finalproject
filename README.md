@@ -3,7 +3,8 @@
 ## Description
 
 This program applies CUDA box filters to all images in a folder, using NPP's `nppiFilterBoxBorder_8u_C1R` routine.
-It's based on nvidia's sample code https://github.com/NVIDIA/cuda-samples/tree/master/Samples/4_CUDA_Libraries/boxFilterNPP
+
+(Based on nvidia's sample code: https://github.com/NVIDIA/cuda-samples/tree/master/Samples/4_CUDA_Libraries/boxFilterNPP)
 
 ## Implementation Details
 
